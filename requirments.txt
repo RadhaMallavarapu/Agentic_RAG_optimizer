@@ -1,1 +1,6 @@
-
+langchain
+chromadb
+sentence-transformers
+openai
+tqdm
+python-dotenv

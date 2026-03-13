@@ -1,0 +1,4 @@
+finally i have completed the importing files it took me so much time still i am happy i learned so many things while dealing with the errors and focusing on my 1st project agentic rag optimizer and i wish i could complete the project without any more conflicts it is asking me to write some more words that it can work perfectly now it is showin chunk 1 created because i have created the smaller text and i give  chunk size 100 so ihave to create more thank 100 so then it will create more if i will increase the text size thats what i am doing right now i wish it have 100 chunks.
+it has several sentences to test the test splitter functionality.
+here is a second paragraph to ensure we get multiple chunks
+finally the third paragraph will help check overlaping behaviour

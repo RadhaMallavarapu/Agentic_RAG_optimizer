@@ -1,0 +1,21 @@
+source,chunk_id,text
+sample.txt,0,finally i have completed the importing files it
+sample.txt,1,it took me so much time still i am happy i
+sample.txt,2,i learned so many things while dealing with the
+sample.txt,3,the errors and focusing on my 1st project agentic
+sample.txt,4,rag optimizer and i wish i could complete the
+sample.txt,5,the project without any more conflicts it is
+sample.txt,6,is asking me to write some more words that it can
+sample.txt,7,can work perfectly now it is showin chunk 1
+sample.txt,8,1 created because i have created the smaller text
+sample.txt,9,text and i give  chunk size 100 so ihave to
+sample.txt,10,to create more thank 100 so then it will create
+sample.txt,11,more if i will increase the text size thats what
+sample.txt,12,what i am doing right now i wish it have 100
+sample.txt,13,100 chunks.
+sample.txt,14,it has several sentences to test the test
+sample.txt,15,test splitter functionality.
+sample.txt,16,here is a second paragraph to ensure we get
+sample.txt,17,get multiple chunks
+sample.txt,18,finally the third paragraph will help check
+sample.txt,19,overlaping behaviour

@@ -1,1 +1,6 @@
-
+transformers
+torch
+faiss-cpu
+langchain
+sentence-transformers
+pypdf

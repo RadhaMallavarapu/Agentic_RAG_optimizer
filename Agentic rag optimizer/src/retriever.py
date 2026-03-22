@@ -8,7 +8,7 @@ def create_embeddings():
   """ 
   creating embedding model
   """
-  embeddings = HuggingFaceEmbeddings()
+  embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
   return embeddings
 
 def create_vector_store(chunks,embeddings):
